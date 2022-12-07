@@ -16,6 +16,5 @@ export const obtenerMensaje: (
   if (estadoPedido === ESTADO_FETCH.ERROR) {
     return NOMBRE_INVALIDO;
   }
-
   return cita ? `${cita}` : NO_ENCONTRADO;
 };

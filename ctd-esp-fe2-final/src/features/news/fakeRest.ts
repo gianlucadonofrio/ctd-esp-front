@@ -7,7 +7,7 @@ export interface INoticias {
   imagen: string;
 }
 
-const simularTiempoTranscurrido: (decrementMiliseconds: number) => Date = (
+export const simularTiempoTranscurrido: (decrementMiliseconds: number) => Date = (
   decrementMiliseconds
 ) => {
   let time = new Date();

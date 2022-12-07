@@ -48,7 +48,7 @@ Los siguientes aspectos son _extras_ al requisito mínimo de aprobación que ser
     TypeScript
       * En el caso de que se deba llevar adelante una refactorización del código (consigna número 3), será tenido en cuenta el uso de TypeScript para el tipado de los componentes y demás funciones que desarrollen lógica reutilizable.
       * Se valorará la reutilización de tipos comunes que se repiten a lo largo del código, especialmente mediante la reutilización de interfaces.
-
+  
     Documentación
       * Se valorará el correcto uso de la documentación en todas las funciones y componentes en caso de ser necesario.
 
