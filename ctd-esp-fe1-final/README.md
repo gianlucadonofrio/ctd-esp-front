@@ -1,7 +1,7 @@
 # ctd-esp-fe1-final Rick and Morty App
 Examen Final de Frontend IV
 
-## Link a la app
+# Link a la app
 
 [rick-and-morty-taupe-two.vercel.app](rick-and-morty-taupe-two.vercel.app)
 
